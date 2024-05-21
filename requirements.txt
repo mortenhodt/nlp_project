@@ -6,7 +6,7 @@ seaborn
 textblob
 tf_keras
 tensorflow
-scipy
+scipy==1.10.1
 prettytable
 Counter
 scikit-learn
